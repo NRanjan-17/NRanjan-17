@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I am Nalinish Ranjan</h1>
+<h1 align="center">Hi there 👋, IT's Nalinish Ranjan</h1>
 
 <h3 align="center"> A Passionate Android Custom Rom developer from India</h3>
 
