@@ -1,8 +1,8 @@
-<h1 align="center">Hi there 👋 I am Nalinish Ranjan</h1>
+<h1 align="center">Hi there 👋, I am Nalinish Ranjan</h1>
 
-<h3 align="center"> Android Custom Rom developer from India</h3>
+<h3 align="center"> A Passionate Android Custom Rom developer from India</h3>
 
-<align="center">[![NRanjan-17's GitHub stats](https://github-readme-stats.vercel.app/api?username=NRanjan-17)](https://github.com/anuraghazra/github-readme-stats)</align>
+[![NRanjan-17's GitHub stats](https://github-readme-stats.vercel.app/api?username=NRanjan-17)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
