@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Nalinish Ranjan
 
 <!--
 **NRanjan-17/NRanjan-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![NRanjan-17's GitHub stats](https://github-readme-stats.vercel.app/api?username=NRanjan-17)](https://github.com/anuraghazra/github-readme-stats)
-<p align="center"><img width="100" src="https://komarev.com/ghpvc/?username=NRanjan-17&color=green&style=flat-square&label=Visitors" alt="NRanjan-17"></p>
