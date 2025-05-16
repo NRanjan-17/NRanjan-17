@@ -1,5 +1,7 @@
-<h1 align="center">👋 Hi, I'm Nalinish Ranjan</h1>
-<h3 align="center">🚀 Android Developer | Custom ROM Engineer | Open Source Enthusiast</h3>
+<!-- Typing Animation Title -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hi+I'm+Nalinish+Ranjan;Android+%7C+Swift+Developer+%7C+Open+Source+Enthusiast" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/nranjan17"><img src="https://img.shields.io/badge/LinkedIn-nranjan17-blue?style=flat&logo=linkedin" /></a>
@@ -12,27 +14,27 @@
 ### 👨‍💻 About Me
 
 - 🎓 B.Tech in Computer Science @ **Galgotias University** (2023–2027)
-- 🔭 Currently working on **Elementum** – an interactive learning app for the Periodic Table
-- 💬 Ask me about **Android ROMs, Jetpack Compose, AOSP, Git/GitHub, and Java**
-- 🛠️ Interned at **Saptkrishi Scientific Pvt Ltd** | Beta **Microsoft Learn Student Ambassador**
-- 🌱 Learning more about **C Programming**, **Langchain**, and **Machine Learning**
+- 🏆 **Swift Student Challenge 2025 Winner** – Recognized by Apple for building with Swift
+- 🔭 Currently working on **[Elementum](https://github.com/NRanjan-17/Elementum.git)** - an educational app for periodic table visualization
+- 💬 Ask me about **Android ROMs**, **Figma**, **AOSP**, ****, and **Git**
+- 🛠️ Beta **Microsoft Learn Student Ambassador** | Ex-Research Intern at **Saptkrishi Scientific**
+- 🌱 Learning **Flutter**, **DSA**, and **Swift**
 
 ---
 
 ### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,python,c,git,github,mysql,linux,bash,figma" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,java,python,git,github,mysql,linux,figma" />" />
 </p>
 
 ---
 
-### 🚀 Featured Project
+### 🚀 Featured Projects
 
-- 📱 **Elementum** – A modern Android app that helps users visualize the periodic table, chemical bonds, and group properties interactively  
-  - Built using **Kotlin**, **Jetpack Compose**, and custom UI components  
-  - Integrates JSON-backed data for dynamic combinations and real-time feedback  
-  - Designed for students and learners with an intuitive UX
+- 📱 **[DroidX-UI](https://github.com/DroidX-UI/)**: Custom Android OS based on AOSP for enhanced performance and UX  
+- 🤖 **[IRIS](https://github.com/NRanjan-17/IRIS)**: AI-powered healthcare chatbot using Llama 2 + Langchain  
+- 🌐 **[Dexterix 4.0](https://github.com/technojam/4.0)**: Built responsive website components for a 800+ participant hackathon
 
 ---
 
