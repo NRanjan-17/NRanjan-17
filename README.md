@@ -14,8 +14,8 @@
 ### 👨‍💻 About Me
 
 - 🎓 B.Tech in Computer Science @ **Galgotias University** (2023–2027)
-- 🔭 Currently working on **[Elementum](https://github.com/NRanjan-17/Elementum.git)** - an educational app for periodic table visualization.
-- 💬 Ask me about Android & Figma.
+- 🔭 Currently working on **Elementum**
+- 💬 Ask me about Android & Figma
 - 🛠️ **β Microsoft Learn Student Ambassador** | Ex-Research Intern @ **Saptkrishi Scientific**
 - 🌱 Learning & Advancing **Flutter**, **DSA**, and **Swift**
 
@@ -39,9 +39,9 @@
 
 ### 🚀 Featured Projects
 
-- 📱 **[Elementum](https://github.com/NRanjan-17/Elementum.git)**: 
-- ⚙️ **[DroidX-UI](https://github.com/DroidX-UI/)**: Custom Android OS based on AOSP for enhanced performance and UX. 
-- 🤖 **[IRIS](https://github.com/NRanjan-17/IRIS)**: AI-powered healthcare chatbot using **Llama Opensource Model. 
+- 📱 **[Elementum](https://github.com/NRanjan-17/Elementum.git)**: Your pocket lab for visualizing elements, bonds, and groups — swift, smart, and student-friendly. 🧪✨
+- ⚙️ **[DroidX-UI](https://github.com/DroidX-UI/)**: A custom Android OS built on AOSP, fine-tuned for sleek performance and a refined user experience. ⚙️📱
+- 🤖 **[IRIS](https://github.com/NRanjan-17/IRIS)**: An AI-powered healthcare chatbot built on the open-source model for smart, reliable medical assistance. 🤖🩺
 
 ---
 
