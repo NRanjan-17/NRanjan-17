@@ -16,8 +16,8 @@
 - 🎓 B.Tech in Computer Science @ **Galgotias University** (2023–2027)
 - 🏆 **Swift Student Challenge 2025 Winner**
 - 🔭 Currently working on **[Elementum](https://github.com/NRanjan-17/Elementum.git)** - an educational app for periodic table visualization
-- 🛠️ **β Microsoft Learn Student Ambassador** | Ex-Research Intern at **Saptkrishi Scientific**
-- 🌱 Learning **Flutter**, **DSA**, and **Swift**
+- 🛠️ **β Microsoft Learn Student Ambassador** | Ex-Research Intern @ **Saptkrishi Scientific**
+- 🌱 Learning & Advancing **Flutter**, **DSA**, and **Swift**
 
 ---
 
@@ -31,9 +31,9 @@
 
 ### 🚀 Featured Projects
 
-- 📱 **[DroidX-UI](https://github.com/DroidX-UI/)**: Custom Android OS based on AOSP for enhanced performance and UX  
-- 🤖 **[IRIS](https://github.com/NRanjan-17/IRIS)**: AI-powered healthcare chatbot using Llama 2 + Langchain  
-- 🌐 **[Dexterix 4.0](https://github.com/technojam/4.0)**: Built responsive website components for a 800+ participant hackathon
+- 📱 **[Elementum](https://github.com/DroidX-UI/](https://github.com/NRanjan-17/Elementum.git)**: Custom Android OS based on AOSP for enhanced performance and UX
+- ⚙️ **[DroidX-UI](https://github.com/DroidX-UI/)**: Custom Android OS based on AOSP for enhanced performance and UX  
+- 🤖 **[IRIS](https://github.com/NRanjan-17/IRIS)**: AI-powered healthcare chatbot using **Llama Opensource Model** 
 
 ---
 
