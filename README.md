@@ -14,10 +14,9 @@
 ### 👨‍💻 About Me
 
 - 🎓 B.Tech in Computer Science @ **Galgotias University** (2023–2027)
-- 🏆 **Swift Student Challenge 2025 Winner** – Recognized by Apple for building with Swift
+- 🏆 **Swift Student Challenge 2025 Winner**
 - 🔭 Currently working on **[Elementum](https://github.com/NRanjan-17/Elementum.git)** - an educational app for periodic table visualization
-- 💬 Ask me about **Android ROMs**, **Figma**, **AOSP**, ****, and **Git**
-- 🛠️ Beta **Microsoft Learn Student Ambassador** | Ex-Research Intern at **Saptkrishi Scientific**
+- 🛠️ **β Microsoft Learn Student Ambassador** | Ex-Research Intern at **Saptkrishi Scientific**
 - 🌱 Learning **Flutter**, **DSA**, and **Swift**
 
 ---
@@ -25,7 +24,7 @@
 ### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,java,python,git,github,mysql,linux,figma" />" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,swift,java,python,git,github,mysql,linux,figma" />
 </p>
 
 ---
