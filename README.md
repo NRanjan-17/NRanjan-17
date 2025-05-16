@@ -39,9 +39,9 @@
 
 ### 🚀 Featured Projects
 
-- 📱 **[Elementum](https://github.com/NRanjan-17/Elementum.git)**: Your pocket lab for visualizing elements, bonds, and groups — swift, smart, and student-friendly. 🧪✨
-- ⚙️ **[DroidX-UI](https://github.com/DroidX-UI/)**: A custom Android OS built on AOSP, fine-tuned for sleek performance and a refined user experience. ⚙️📱
-- 🤖 **[IRIS](https://github.com/NRanjan-17/IRIS)**: An AI-powered healthcare chatbot built on the open-source model for smart, reliable medical assistance. 🤖🩺
+- 📱 **[Elementum](https://github.com/NRanjan-17/Elementum.git)** : Your pocket lab for visualizing elements, bonds, and groups — swift, smart, and student-friendly. 🧪✨
+- ⚙️ **[DroidX-UI](https://github.com/DroidX-UI/)** : A custom Android OS built on AOSP, fine-tuned for sleek performance and a refined user experience. ⚙️📱
+- 🤖 **[IRIS](https://github.com/NRanjan-17/IRIS)** : An AI-powered healthcare chatbot built on the open-source model for smart, reliable medical assistance. 🤖🩺
 
 ---
 
