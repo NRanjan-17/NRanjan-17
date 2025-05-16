@@ -1,25 +1,67 @@
-<h1 align="center">Hi there 👋, I'm Nalinish Ranjan</h1>
+<h1 align="center">👋 Hi, I'm Nalinish Ranjan</h1>
+<h3 align="center">🚀 Android Developer | Custom ROM Engineer | Open Source Enthusiast</h3>
 
-<h3 align="center"> A Passionate Android Custom Rom developer from India</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/nranjan17"><img src="https://img.shields.io/badge/LinkedIn-nranjan17-blue?style=flat&logo=linkedin" /></a>
+  <a href="mailto:nalinishranjan05@gmail.com"><img src="https://img.shields.io/badge/Email-nalinishranjan05@gmail.com-red?style=flat&logo=gmail" /></a>
+  <img src="https://komarev.com/ghpvc/?username=NRanjan-17&style=flat-square&color=blue" alt="profile views" />
+</p>
 
-Welcome to my Profile,
-- 🔭 I’m currently working on: [DroidX-UI](https://github.com/DroidX-UI/)
-- 🌱 I’m currently learning: C & Java
+---
 
-[![NRanjan-17's GitHub stats](https://github-readme-stats.vercel.app/api?username=NRanjan-17)](https://github.com/anuraghazra/github-readme-stats)
+### 👨‍💻 About Me
 
+- 🎓 B.Tech in Computer Science @ **Galgotias University** (2023–2027)
+- 🔭 Currently working on **[DroidX-UI](https://github.com/DroidX-UI/)** – a clean and fast AOSP-based custom ROM
+- 💬 Ask me about **Android ROMs, AOSP, Git/GitHub, Java**, and **Cloud Tech**
+- 🛠️ Interned at **Saptkrishi Scientific Pvt Ltd** | Beta **Microsoft Learn Student Ambassador**
+- 🌱 Learning more about **Machine Learning**, **Langchain**, and **C Programming**
 
-<!--
-**NRanjan-17/NRanjan-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,java,python,c,git,github,mysql,linux,bash,figma" />
+</p>
+
+---
+
+### 🚀 Noteworthy Projects
+
+- 📱 **[DroidX-UI](https://github.com/DroidX-UI/)**: Custom Android ROM based on AOSP for enhanced performance and UX  
+- 🤖 **[IRIS](https://github.com/NRanjan-17/IRIS)**: AI-powered healthcare chatbot using Llama 2 + Langchain  
+- 🌐 **[Dexterix 4.0](https://github.com/technojam/4.0)**: Built responsive website components for a 800+ participant hackathon
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NRanjan-17&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NRanjan-17&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+### 📈 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NRanjan-17&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 📫 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/nranjan17"><img src="https://img.shields.io/badge/LinkedIn-nranjan17-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:nalinishranjan05@gmail.com"><img src="https://img.shields.io/badge/Gmail-nalinishranjan05@gmail.com-red?style=for-the-badge&logo=gmail" /></a>
+</p>
+
+---
+
+<details>
+  <summary>📜 Resume</summary>
+  <p>You can download/view my full resume <a href="https://github.com/NRanjan-17/NRanjan-17/raw/main/Resume.pdf">here</a>.</p>
+</details>
