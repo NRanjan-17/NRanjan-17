@@ -14,10 +14,18 @@
 ### 👨‍💻 About Me
 
 - 🎓 B.Tech in Computer Science @ **Galgotias University** (2023–2027)
-- 🏆 **Swift Student Challenge 2025 Winner**
-- 🔭 Currently working on **[Elementum](https://github.com/NRanjan-17/Elementum.git)** - an educational app for periodic table visualization
+- 🔭 Currently working on **[Elementum](https://github.com/NRanjan-17/Elementum.git)** - an educational app for periodic table visualization.
+- 💬 Ask me about Android & Figma.
 - 🛠️ **β Microsoft Learn Student Ambassador** | Ex-Research Intern @ **Saptkrishi Scientific**
 - 🌱 Learning & Advancing **Flutter**, **DSA**, and **Swift**
+
+---
+
+### 🏆 Highlight Achievement
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Swift+Student+Challenge+2025+Winner+%F0%9F%8F%86" alt="Typing animation showing Swift Student Challenge 2025 Winner" />
+</p>
 
 ---
 
@@ -31,9 +39,9 @@
 
 ### 🚀 Featured Projects
 
-- 📱 **[Elementum](https://github.com/DroidX-UI/](https://github.com/NRanjan-17/Elementum.git)**: Custom Android OS based on AOSP for enhanced performance and UX
-- ⚙️ **[DroidX-UI](https://github.com/DroidX-UI/)**: Custom Android OS based on AOSP for enhanced performance and UX  
-- 🤖 **[IRIS](https://github.com/NRanjan-17/IRIS)**: AI-powered healthcare chatbot using **Llama Opensource Model** 
+- 📱 **[Elementum](https://github.com/NRanjan-17/Elementum.git)**: 
+- ⚙️ **[DroidX-UI](https://github.com/DroidX-UI/)**: Custom Android OS based on AOSP for enhanced performance and UX. 
+- 🤖 **[IRIS](https://github.com/NRanjan-17/IRIS)**: AI-powered healthcare chatbot using **Llama Opensource Model. 
 
 ---
 
