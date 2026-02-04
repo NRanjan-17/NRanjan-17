@@ -48,8 +48,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NRanjan-17&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=NRanjan-17&layout=compact&theme=tokyonight&no-bg=true&no-frame=true&hide_border=true&langs_count=6" width="48%" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NRanjan-17&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=NRanjan-17&layout=compact&theme=tokyonight&no-bg=true&no-frame=true&hide_border=true&langs_count=6" alt="Top Languages" />
 </p>
 
 ---
