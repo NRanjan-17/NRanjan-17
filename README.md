@@ -47,17 +47,10 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/NRanjan-17">
-    <img src="https://github-readme-stats-git-main-nranjan17s-projects.vercel.app/api?username=NRanjan-17&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/NRanjan-17">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NRanjan-17&theme=tokyonight" alt="Profile Summary" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NRanjan-17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NRanjan-17&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+</div>
 
 ---
 
