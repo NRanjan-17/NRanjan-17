@@ -49,7 +49,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NRanjan-17&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=NRanjan-17&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NRanjan-17&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
