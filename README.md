@@ -13,11 +13,10 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 B.Tech in Computer Science @ **Galgotias University** (2023–2027)
-- 🔭 Currently working on **Elementum**
-- 💬 Ask me about Android & Figma
-- 🛠️ **β Microsoft Learn Student Ambassador** | Ex-Research Intern @ **Saptkrishi Scientific**
-- 🌱 Learning & Advancing **Flutter**, **DSA**, and **Swift**
+- 🎓 Computer Science Student
+- 🔭 Currently working on **DhanurVeda**
+- 💬 Ask me about iOS
+- 🌱 Learning & Advancing **DSA**, and **Swift**
 
 ---
 
