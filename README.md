@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a Computer Science (AI & ML) student at **Galgotias University** who loves building polished apps and digging into how Android works under the hood.
+I'm a Computer Science (AI & ML) student, who loves building polished apps and digging into how Android works under the hood.
 
 - 📱 **iOS developer**: I build with Swift and SwiftUI, and my app **Elementum** is live on the App Store
 - 🏆 **Swift Student Challenge 2025 winner**: one of 350 winners worldwide
