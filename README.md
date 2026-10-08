@@ -35,7 +35,7 @@ I'm a Computer Science (AI & ML) student, who loves building polished apps and d
 ### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=swift,xcode,androidstudio,java,c,python,git,github,mysql,linux,figma" />
+  <img src="https://skillicons.dev/icons?i=swift,supabase,androidstudio,java,python,git,github,mysql,linux,figma" />
 </p>
 
 ---
